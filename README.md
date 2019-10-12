@@ -1,3 +1,3 @@
 # CodewarsSwift
 
-some my solutions of kata from codewars
+some my swift solutions of kata from codewars
